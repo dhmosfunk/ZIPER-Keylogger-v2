@@ -4,7 +4,6 @@ You want to spy someone's PC for Passwords&amp;Usernames etc? Download ZIPER Key
 <br/>
 - [x] Multithreading System
 <br/>
-<br/>
 You will find the file with logs `%userprofile%` and you will see zip file with random characters..
 
 <br/>
